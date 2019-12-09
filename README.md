@@ -9,5 +9,5 @@ This repository implements [TD3](https://arxiv.org/abs/1802.09477) and
 ## Usage
 You can train an agent for the reaching task on Jaco arm by running:
 ```
-python main.py --task jaco --domain easy
+python main.py --domain jaco --task easy
 ```
